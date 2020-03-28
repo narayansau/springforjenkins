@@ -10,7 +10,7 @@
     </parent>
          
 
-    <groupId>com.example</groupId>
+    <groupId>D:\sau_data\Intellij\springforjenkins\target\classes\com.example</groupId>
     <artifactId>springforjenkins</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springforjenkins</name>
